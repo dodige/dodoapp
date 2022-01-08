@@ -1,0 +1,14 @@
+{
+  "resourceName": "dodoappressourcename",
+  "policyUUID": "ea9e7c50",
+  "bucketName": "dodoappbucketname",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
