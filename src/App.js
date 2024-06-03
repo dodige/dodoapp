@@ -67,7 +67,7 @@ function App() {
     <Authenticator>
     {({ signOut, user }) => (
     <div className="App">
-      <h1>My DodoApp App</h1>
+      <h1>My DodoApp App (2020 )</h1>
       <input
         onChange={e => setFormData({ ...formData, 'name': e.target.value})}
         placeholder="Note name!"
